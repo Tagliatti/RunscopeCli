@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const request = require('./request');
 const clc = require("cli-color");
 const Table = require("cli-table");
