@@ -1,12 +1,12 @@
 {
   "name": "runscope-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tagliatti/RunscopeCli.git"
+    "url": "https://github.com/Tagliatti/RunscopeCli.git"
   },
   "bugs": {
     "url": "https://github.com/Tagliatti/RunscopeCli/issues"
@@ -18,7 +18,7 @@
   ],
   "author": "Filipe Tagliatti <filipetagliatti@gmail.com>",
   "license": "MIT",
-  "description": "",
+  "description": "A CLI for https://runscope.com - API performance monitoring. ",
   "bin": {
     "runscope": "index.js"
   },
