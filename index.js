@@ -8,7 +8,7 @@ const program = new Command();
 
 program
     .option('-c, --count <integer>', 'Number of results', 10)
-    .requiredOption('-t, --token <string>', 'Token', process.env.RUNSCOPE_TOKEN)
+    .requiredOption('-t, --token <string>', 'Token or use environment RUNSCOPE_TOKEN', process.env.RUNSCOPE_TOKEN)
     .option('-r, --refresh-time <integer>', 'Refresh time in ms', 120000)
     .option('-w, --watch', 'Watch', false)
     .option('--no-results', 'Hide results', false)
