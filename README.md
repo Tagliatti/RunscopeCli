@@ -22,4 +22,4 @@ Options:
 <img src="https://i.imgur.com/7A1WalL.png">
 
 ## License
-NetBarcode is shared under the MIT license. This means you can modify and use it however you want, even for comercial use. But please give this repository a ⭐️.
+RunscopeCli is shared under the MIT license. This means you can modify and use it however you want, even for comercial use. But please give this repository a ⭐️.
