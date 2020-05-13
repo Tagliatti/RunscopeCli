@@ -17,3 +17,6 @@ Options:
   --no-results                  Hide results
   -h, --help                    display help for command
 ```
+
+## License
+NetBarcode is shared under the MIT license. This means you can modify and use it however you want, even for comercial use. But please give this the Github repo a ⭐️.

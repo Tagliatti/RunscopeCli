@@ -61,6 +61,7 @@ const table = new Table({
                 if (showResults) {
                     row.push(
                         results[index]
+                            .reverse()
                             .map(value => getTestStatus(value.result))
                             .join(' '),
                         dateFormat(
